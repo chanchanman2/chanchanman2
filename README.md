@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**chanchanman2/chanchanman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my GitHub profile! I'm a passionate researcher and developer with a keen interest in model compression and hardware deployment for efficient AI solutions. 🚀
 
 🌟 About Me
