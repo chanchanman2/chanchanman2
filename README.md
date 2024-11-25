@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate researcher and developer with a keen interest in model compression and hardware deployment for efficient AI solutions. 🚀
 
-🌟 About Me\\
+🌟 About Me//
 🔭 Currently working on: deploying lightweight AI models on edge devices.\\
 🌱 Learning: Practical deployment strategies for hardware acceleration, advanced pruning methods.\\
 🤔 Ask me about: model quantization, pruning, or optimizing deep learning models for real-time applications.\\
